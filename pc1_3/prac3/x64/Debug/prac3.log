@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (prac3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pc1.3.cpp
+C:\visualStd\c++\pc1_3\prac3\pc1.3.cpp(40,14): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+  prac3.vcxproj -> C:\visualStd\c++\pc1_3\x64\Debug\pc1.3.exe
