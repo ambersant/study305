@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\visualStd\c++\pc2.1\pc2\pc2\Source.cpp(23,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\visualStd\c++\pc2.1\pc2\pc2\Source.cpp(35,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\visualStd\c++\pc2.1\pc2\pc2\Source.cpp(62,18): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  pc2.vcxproj -> C:\visualStd\c++\pc2.1\pc2\x64\Debug\pc2.exe
